@@ -1,0 +1,17 @@
+body {
+    font-family: roboto;
+    padding: 0;
+    margin: 0;
+}
+
+
+.header,
+.first {
+    background-color: #1F2937;
+}
+
+.first {
+    font-size: 48px;
+    font-weight: extra-bold;
+    color: #F9FAF8;
+}
